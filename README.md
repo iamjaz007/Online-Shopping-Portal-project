@@ -19,8 +19,12 @@ How to run this project using PHP and MySQL
 6. Import shopping file(given inside the package in SQL file folder)
 
 7.Run the script http: "//localhost/Online-Shopping-Portal-project/shopping/" (frontend)
+or
+http://localhost/Online-Shopping-Portal-project/shopping/index.php
 
 8. Link for admin Panel : http://localhost/shopping/admin
+or
+http://localhost/Online-Shopping-Portal-project/shopping/admin/
 
 For Admin :
 User Name : admin
